@@ -3,10 +3,10 @@
         "titulo":"En línea, a tu ritmo y en cualquier momento",
         "tipo":"L",
         "contentList":[
-            {"content":"Curso: Medios de pago internacional","link":"ficha-curso.html?course=4&sector=CEF"},
-            {"content":"Curso: Cartas de crédito","link":"ficha-curso.html?course=3&sector=CEF"},
-            {"content":"Curso: Factoraje internacional","link":"ficha-curso.html?course=2&sector=CEF"},
-            {"content":"Curso: Seguro de crédito a la exportación","link":"ficha-curso.html?course=2&sector=CEF"}
+            {"content":"Curso: Medios de pago internacional","link":"ficha-curso.html?course=1&sector=CEF"},
+            {"content":"Curso: Cartas de crédito","link":"ficha-curso.html?course=2&sector=CEF"},
+            {"content":"Curso: Factoraje internacional","link":"ficha-curso.html?course=3&sector=CEF"},
+            {"content":"Curso: Seguro de crédito a la exportación","link":"ficha-curso.html?course=4&sector=CEF"}
         ],
         "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual",
         "tags":{
@@ -17,7 +17,7 @@
         "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
         "tipo":"CP",
         "cardList":[
-            {"content":"Presencial","link":"./content/cursospresenciales.pdf","duracion":"Desarrolla tu fortaleza empresarial con nuestros expertos.", "tipon":"1","linkimagen":"./resources/presencial.png"},
+            
             {"content":"Webinars","link":"./content/Calendario-Inclusion.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
         ],
         "tags":{
@@ -32,14 +32,14 @@
         "tipo":"L",
         "contentList":[
             {"content":"Conceptos financieros básicos para empresas de comercio exterior","link":"ficha-curso.html?course=5&sector=CN"},
-            {"content":"¿Cómo analizar tus estados financieros","link":"ficha-curso.html?course=6&sector=CN"},
-            {"content":"Prepara tu presupuesto","link":"ficha-curso.html?course=8&sector=CN"},
-            {"content":"Matemáticas: Entiende tus finanzas entre números","link":"ficha-curso.html?course=9&sector=CN"},
-            {"content":"Gestión de costos","link":"ficha-curso.html?course=10&sector=CN"},
-            {"content":"Guía fiscal para los negocios","link":"ficha-curso.html?course=11&sector=CN"},
-            {"content":"Administración de proyectos","link":"ficha-curso.html?course=12&sector=CN"},
-            {"content":"Cómo solicitar un crédito para el comercio exterior","link":"ficha-curso.html?course=13&sector=CN"},
-            {"content":"Tipos de financiamiento","link":"ficha-curso.html?course=14&sector=CN"},
+            {"content":"¿Cómo analizar tus estados financieros?","link":"ficha-curso.html?course=6&sector=CN"},
+            {"content":"Prepara tu presupuesto","link":"ficha-curso.html?course=7&sector=CN"},
+            {"content":"Matemáticas: Entiende tus finanzas entre números","link":"ficha-curso.html?course=8&sector=CN"},
+            {"content":"Gestión de costos","link":"ficha-curso.html?course=9&sector=CN"},
+            {"content":"Guía fiscal para los negocios","link":"ficha-curso.html?course=10&sector=CN"},
+            {"content":"Administración de proyectos","link":"ficha-curso.html?course=11&sector=CN"},
+            {"content":"Cómo solicitar un crédito para el comercio exterior","link":"ficha-curso.html?course=12&sector=CN"},
+            {"content":"Tipos de financiamiento","link":"ficha-curso.html?course=13&sector=CN"},
             {"content":"Aspectos legales en el crédito","link":"ficha-curso.html?course=14&sector=CN"}
         ],
         "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual",
@@ -51,7 +51,7 @@
         "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
         "tipo":"CP",
         "cardList":[
-            {"content":"Presencial","link":"./content/cursospresenciales.pdf","duracion":"Desarrolla tu fortaleza empresarial con nuestros expertos.", "tipon":"1","linkimagen":"./resources/presencial.png"},
+           
             {"content":"Webinars","link":"./content/Calendario-Promocion.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
         ],
 
@@ -84,7 +84,7 @@
         "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
         "tipo":"CP",
         "cardList":[
-            {"content":"Presencial","link":"./content/cursospresenciales.pdf","duracion":"Desarrolla tu fortaleza empresarial con nuestros expertos.", "tipon":"1","linkimagen":"./resources/presencial.png"},
+           
             {"content":"Webinars","link":"./content/Calendario-Fortalecimiento.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
         ],
         "tags":{
@@ -95,7 +95,7 @@
         "titulo":"En línea, a tu ritmo y en cualquier momento",
         "tipo":"L",
         "contentList":[
-            {"content":"Responsabilidad ambiental y social","link":"ficha-curso.html?course=19&sector=CFE"}
+            {"content":"Responsabilidad ambiental y social","link":"ficha-curso.html?course=20&sector=CFE"}
             
         ],
         "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual. Atención uno a uno consultor-empresa.",
@@ -107,7 +107,7 @@
         "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
         "tipo":"CP",
         "cardList":[
-            {"content":"Presencial","link":"./content/cursospresenciales.pdf","duracion":"Desarrolla tu fortaleza empresarial con nuestros expertos.", "tipon":"1","linkimagen":"./resources/presencial.png"},
+            
             {"content":"Webinars","link":"./content/Calendario-Fortalecimiento.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
         ],
         "tags":{
@@ -119,14 +119,14 @@
         "titulo":"En línea, a tu ritmo y en cualquier momento",
         "tipo":"L",
         "contentList":[
-            {"content" : "Liderazgo", "link":"webinar.html?webinar=1"},
-            {"content" : "Orientación a resultados", "link":"webinar.html?webinar=1"},
-            {"content" : "Trabajo en equipo", "link":"webinar.html?webinar=1"},
-            {"content" : "Capacidad asertiva", "link":"webinar.html?webinar=1"},
-            {"content" : "Administración del tiempo", "link":"webinar.html?webinar=1"},
-            {"content" : "Manejo de conflictos con inteligencia emocional", "link":"webinar.html?webinar=1"},
-            {"content" : "Negociación", "link":"webinar.html?webinar=1"},
-            {"content" : "Negociación 2", "link":"webinar.html?webinar=1"}
+            {"content" : "Liderazgo", "link":"ficha-curso.html?course=21&sector=CFE"},
+            {"content" : "Orientación a resultados", "link":"ficha-curso.html?course=22&sector=CFE"},
+            {"content" : "Trabajo en equipo", "link":"ficha-curso.html?course=23&sector=CFE"},
+            {"content" : "Capacidad asertiva", "link":"ficha-curso.html?course=24&sector=CFE"},
+            {"content" : "Administración del tiempo", "link":"ficha-curso.html?course=25&sector=CFE"},
+            {"content" : "Manejo de conflictos con inteligencia emocional", "link":"ficha-curso.html?course=26&sector=CFE"},
+            {"content" : "Negociación", "link":"ficha-curso.html?course=27&sector=CFE"},
+            {"content" : "Negociación 2", "link":"ficha-curso.html?course=28&sector=CFE"}
         ],
         "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual.",
         "tags":{
@@ -137,7 +137,7 @@
         "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
         "tipo":"CP",
         "cardList":[
-            {"content":"Presencial","link":"./content/cursospresenciales.pdf","duracion":"Desarrolla tu fortaleza empresarial con nuestros expertos.", "tipon":"1","linkimagen":"./resources/presencial.png"},
+           
             {"content":"Webinars","link":"./content/Calendario-Fortalecimiento.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
         ],
         "tags":{
@@ -149,7 +149,7 @@
         "tipo":"L",
         "contentList":[
             
-            {"content" : "Programa de garantías", "link":"webinar.html?webinar=1"}
+            {"content" : "Programa de garantías", "link":"ficha-curso.html?course=29&sector=CFE"}
         ],
         "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual.",
         "tags":{
@@ -160,7 +160,7 @@
         "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
         "tipo":"CP",
         "cardList":[
-            {"content":"Presencial","link":"./content/cursospresenciales.pdf","duracion":"Desarrolla tu fortaleza empresarial con nuestros expertos.", "tipon":"1","linkimagen":"./resources/presencial.png"},
+           
             {"content":"Webinars","link":"./content/Calendario-Fortalecimiento.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
         ],
         "tags":{
