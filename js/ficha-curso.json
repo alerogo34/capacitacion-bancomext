@@ -21,7 +21,7 @@
         ],
         "image": "./resources/cursos/mediosdepagoInternacional-1755x380.jpg",
         "miniature": "./resources/cursos/cetesdirecto150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=2",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=2",
         "videolink":"./resources/videos/CETES.mp4"
     },
     {
@@ -46,7 +46,7 @@
         ],
         "image": "./resources/cursos/cartasdecredito-1755x380.jpg",
         "miniature": "./resources/cursos/burodecredito150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=3",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=3",
         "videolink":"./resources/videos/buro_credito.mp4"
     },
     {
@@ -71,7 +71,7 @@
         ],
         "image": "./resources/cursos/factorajeinternacional-1755x380.jpg",
         "miniature": "./resources/cursos/aprendeaendeudarte150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=4",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=4",
         "videolink":"./resources/videos/aprende_a_endeudarte.mp4"
     },
     {
@@ -96,7 +96,7 @@
         ],
         "image": "./resources/cursos/segurodecreditoalaexportación-1755x380.jpg",
         "miniature": "./resources/cursos/mujeresemprendedoras150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=5",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=45",
         "videolink":"./resources/videos/mujeres_emprendedoras.mp4"
     },
     {
@@ -121,7 +121,7 @@
         ],
         "image": "./resources/cursos/conceptosfinancierosbasicosparaempresasdecomercioexterior-1755x380.jpg",
         "miniature": "./resources/cursos/13pasosparaelaborartuplandenegocios150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=6",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=5",
         "videolink":"./resources/videos/plan_idea_negocio.mp4"
     },
     {
@@ -146,7 +146,7 @@
         ],
         "image": "./resources/cursos/comoanalizartusestadosfinancieros1755x380.jpg",
         "miniature": "./resources/cursos/tecnicasdeinvestigaciondemercados150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=7",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=6",
         "videolink":""
     },
     {
@@ -171,7 +171,7 @@
         ],
         "image": "./resources/cursos/preparatupresupuesto-1755x380.jpg",
         "miniature": "./resources/cursos/determinabientuscostos150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=8",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=8",
         "videolink":"./resources/videos/determina_bien_tus_costos.mp4"
     },
     {
@@ -196,7 +196,7 @@
         ],
         "image": "./resources/cursos/matematicasentiendetusfinanzasentrenumeros-1755x380.jpg",
         "miniature": "./resources/cursos/comopromocionareficientementetuproductooservicio1150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=9",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=9",
         "videolink":"./resources/videos/como_promocionar_eficientemente.mp4"
     },
     {
@@ -221,7 +221,7 @@
         ],
         "image": "./resources/cursos/gestiondecostos-1755x380.jpg",
         "miniature": "./resources/cursos/servicioalclientelos10mandamientos150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=10",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=10",
         "videolink":"./resources/videos/servicio_al_cliente.mp4"
     },
     {
@@ -246,7 +246,7 @@
         ],
         "image": "./resources/cursos/guiafiscalparalosnegocios-1755x380.jpg",
         "miniature": "./resources/cursos/resico150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=11",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=11",
         "videolink":"./resources/videos/RESICO.mp4"
     },
     {
@@ -271,7 +271,7 @@
         ],
         "image": "./resources/cursos/administraciondeproyectos-1755x380.jpg",
         "miniature": "./resources/cursos/forjandoinnovadoresprotegidos150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=12",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=12",
         "videolink":"./resources/videos/forjando_inovadores.mp4"
     },
     {
@@ -296,7 +296,7 @@
         ],
         "image": "./resources/cursos/comosolicitaruncreditoparaelcomercioexterior-1755x380.jpg",
         "miniature": "./resources/cursos/comopresentarmiproyectodenegocio150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=13",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=13",
         "videolink":"./resources/videos/como-presentar-mi-proyecto-de-negocio.mp4"
     },
     {
@@ -321,7 +321,7 @@
         ],
         "image": "./resources/cursos/tiposdefinanciamiento-1755x380.jpg",
         "miniature": "./resources/cursos/comoobteneruncreditoenunbanco150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=14",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=14",
         "videolink":"./resources/videos/como-obtener-un-microcredito.mp4"
     },
     {
@@ -346,7 +346,7 @@
         ],
         "image": "./resources/cursos/aspectoslegalesenelcredito-1755x380.jpg",
         "miniature": "./resources/cursos/iniciativamujer150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=15",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=46",
         "videolink":"./resources/videos/iniciativa_mujer.mp4"
     },
     {
@@ -371,7 +371,7 @@
         ],
         "image": "./resources/cursos/laImportanciadelfinanciamientoparalacompetitividad-1755x380.jpg",
         "miniature": "./resources/cursos/retosdelaempresafamiliar150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=16",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=15",
         "videolink":"./resources/videos/retos-de-la-empresa-familiar.mp4"
     },
     {
@@ -396,7 +396,7 @@
         ],
         "image": "./resources/cursos/gobiernocorporativo1755x380.jpg",
         "miniature": "./resources/cursos/planeacionestrategicahaciadondequierollegarconmiempresa150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=17",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=16",
         "videolink":"./resources/videos/planeacion_estrategica.mp4"
     },
     {
@@ -421,7 +421,7 @@
         ],
         "image": "./resources/cursos/medidasdeprevencionparalaciberseguridad1755x380.jpg",
         "miniature": "./resources/cursos/ventasparapequeñasymedianasempresas150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=18",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=17",
         "videolink":"./resources/videos/vender_en_pymes.mp4"
     },
     {
@@ -446,7 +446,7 @@
         ],
         "image": "./resources/cursos/perspectivadegenero1755x380.jpg",
         "miniature": "./resources/cursos/incorporalasredessocialesatuempresa150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=19",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=18",
         "videolink":"./resources/videos/redes-sociales.mp4"
     },
     {
@@ -471,7 +471,7 @@
         ],
         "image": "./resources/cursos/lasmujeresysupapelenelcomerciointernacional-1755x380.jpg",
         "miniature": "./resources/cursos/elrecursoelrecursohumanoeslapyme150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=20",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=19",
         "videolink":"./resources/videos/el-recurso-humano-es-la-pyme.mp4"
     },
     {
@@ -496,7 +496,7 @@
         ],
         "image": "./resources/cursos/responsabilidadambientalysocial-1755x380.jpg",
         "miniature": "./resources/cursos/conceptosfinancierosbasicos150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=21",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=20",
         "videolink":""
     },
     {
@@ -521,7 +521,7 @@
         ],
         "image": "./resources/cursos/Liderazgo-1755x380.jpg",
         "miniature": "./resources/cursos/contabilidadbasicaparamicroypequenasempresas150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=22",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=26",
         "videolink":"./resources/videos/contabilidad-basica-para-micro.mp4"
     },
     {
@@ -546,7 +546,7 @@
         ],
         "image": "./resources/cursos/orientacionaresultados-1755x380.jpg",
         "miniature": "./resources/cursos/gestiondecostos-150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=23",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=22",
         "videolink":""
     },
     {
@@ -571,7 +571,7 @@
         ],
         "image": "./resources/cursos/trabajoenequipo-1755x380.jpg",
         "miniature": "./resources/cursos/matematicasentiendetusfinanzasentrenumeros150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=24",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=33",
         "videolink":""
     },
     {
@@ -596,7 +596,7 @@
         ],
         "image": "./resources/cursos/capacidadasertiva-1755x380.jpg",
         "miniature": "./resources/cursos/comoanalizartusestadosfinancieros150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=25",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=37",
         "videolink":""
     },
     {
@@ -621,7 +621,7 @@
         ],
         "image": "./resources/cursos/administraciondeltiempo-1755x380.jpg",
         "miniature": "./resources/cursos/comotratarexitosamentelosproblemaslegalesdetuempresa150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=26",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=35",
         "videolink":"./resources/videos/como-tratar-exitosamente-los problemas-legale.mp4"
     },
     {
@@ -646,7 +646,7 @@
         ],
         "image": "./resources/cursos/manejodeconflictosconinteligenciaemocional-1755x380.jpg",
         "miniature": "./resources/cursos/registratumarcayvalorizatuempresa150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=27",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=27",
         "videolink":"./resources/videos/marca-registrada.mp4"
     },
     {
@@ -671,7 +671,7 @@
         ],
         "image": "./resources/cursos/negociacion-1755x380.jpg",
         "miniature": "./resources/cursos/calidadenlasmipymes150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=28",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=34",
         "videolink":"./resources/videos/calidad-en-las-mipymes.mp4"
     },
     {
@@ -696,7 +696,7 @@
         ],
         "image": "./resources/cursos/negociacion2-1755x380.jpg",
         "miniature": "./resources/cursos/prevencióndedesastresycontinuidaddenegocios150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=29",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=29",
         "videolink":"./resources/videos/prevencion_de_desastres.mp4"
     },
     {
@@ -721,7 +721,7 @@
         ],
         "image": "./resources/cursos/programadegarantias-1755x380",
         "miniature": "./resources/cursos/importanciadelfinanciamiento150x150.png",
-        "moodlelink": "https://www.nafintecapacita.com/course/view.php?id=30",
+        "moodlelink": "http://52.142.54.117/course/view.php?id=39",
         "videolink":""
     }
 ]
