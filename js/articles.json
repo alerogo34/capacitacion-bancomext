@@ -3,27 +3,40 @@
         "titulo":"En línea, a tu ritmo y en cualquier momento",
         "tipo":"L",
         "contentList":[
-            {"content":"Curso: Medios de pago internacional","link":"ficha-curso.html?course=1&sector=CEF"},
-            {"content":"Curso: Cartas de crédito","link":"ficha-curso.html?course=2&sector=CEF"},
-            {"content":"Curso: Factoraje internacional","link":"ficha-curso.html?course=3&sector=CEF"},
-            {"content":"Curso: Seguro de crédito a la exportación","link":"ficha-curso.html?course=4&sector=CEF"}
+            {"content" : "Liderazgo", "link":"ficha-curso.html?course=21&sector=CFE"},
+            {"content" : "Orientación a resultados", "link":"ficha-curso.html?course=22&sector=CFE"},
+            {"content" : "Trabajo en equipo", "link":"ficha-curso.html?course=23&sector=CFE"},
+            {"content" : "Capacidad asertiva", "link":"ficha-curso.html?course=24&sector=CFE"},
+            {"content" : "Administración del tiempo", "link":"ficha-curso.html?course=25&sector=CFE"},
+            {"content" : "Manejo de conflictos con inteligencia emocional", "link":"ficha-curso.html?course=26&sector=CFE"},
+            {"content" : "Negociación", "link":"ficha-curso.html?course=27&sector=CFE"},
+            {"content" : "Negociación 2", "link":"ficha-curso.html?course=28&sector=CFE"}
+
         ],
         "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual",
         "tags":{
             "categoria":["CE"]
         }
     },
+   
+    
+
+
     {
-        "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
-        "tipo":"CP",
-        "cardList":[
+        "titulo":"En línea, a tu ritmo y en cualquier momento",
+        "tipo":"L",
+        "contentList":[
+            {"content" : "Programa de garantías", "link":"ficha-curso.html?course=29&sector=CFE"}
+
             
-            {"content":"Webinars","link":"./content/Calendario-Inclusion.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
         ],
+        "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual",
         "tags":{
-            "categoria":["CE"]
+            "categoria":["FAF"]
         }
     },
+    
+    
     
 
 
@@ -40,39 +53,12 @@
             {"content":"Administración de proyectos","link":"ficha-curso.html?course=11&sector=CN"},
             {"content":"Cómo solicitar un crédito para el comercio exterior","link":"ficha-curso.html?course=12&sector=CN"},
             {"content":"Tipos de financiamiento","link":"ficha-curso.html?course=13&sector=CN"},
-            {"content":"Aspectos legales en el crédito","link":"ficha-curso.html?course=14&sector=CN"}
-        ],
-        "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual",
-        "tags":{
-            "categoria":["FAF"]
-        }
-    },
-    {
-        "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
-        "tipo":"CP",
-        "cardList":[
-           
-            {"content":"Webinars","link":"./content/Calendario-Promocion.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
-        ],
-
-        
-        "tags":{
-            "categoria":["FAF"]
-        }
-    },
-    
-    
-
-
-    {
-        "titulo":"En línea, a tu ritmo y en cualquier momento",
-        "tipo":"L",
-        "contentList":[
+            {"content":"Aspectos legales en el crédito","link":"ficha-curso.html?course=14&sector=CN"},
             {"content":"La importancia del financiamiento para la competitividad","link":"ficha-curso.html?course=15&sector=CFE"},
-            {"content":"Gobierno corporativo","link":"ficha-curso.html?course=16&sector=CFE"},
             {"content":"Medidas de prevención para la ciberseguridad","link":"ficha-curso.html?course=17&sector=CFE"},
             {"content":"Perspectiva de género","link":"ficha-curso.html?course=18&sector=CFE"},
-            {"content":"Las mujeres y su papel en el comercio internacional","link":"ficha-curso.html?course=19&sector=CFE"}
+            {"content":"Las mujeres y su papel en el comercio internacional","link":"ficha-curso.html?course=19&sector=CFE"},
+            {"content":"Responsabilidad ambiental y social","link":"ficha-curso.html?course=20&sector=CFE"}
             
         ],
         "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual. Atención uno a uno consultor-empresa.",
@@ -80,145 +66,63 @@
             "categoria":["EN"]
         }
     },
-    {
-        "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
-        "tipo":"CP",
-        "cardList":[
-           
-            {"content":"Webinars","link":"./content/Calendario-Fortalecimiento.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
-        ],
-        "tags":{
-                "categoria":["EN"]
-            }
-    },
+   
     {
         "titulo":"En línea, a tu ritmo y en cualquier momento",
         "tipo":"L",
         "contentList":[
-            {"content":"Responsabilidad ambiental y social","link":"ficha-curso.html?course=20&sector=CFE"}
+            {"content":"Medios de pago internacional","link":"ficha-curso.html?course=1&sector=CEF"},
+            {"content":"Cartas de crédito","link":"ficha-curso.html?course=2&sector=CEF"},
+            {"content":"Factoraje internacional","link":"ficha-curso.html?course=3&sector=CEF"},
+            {"content":"Seguro de crédito a la exportación","link":"ficha-curso.html?course=4&sector=CEF"},
+            {"content":"Gobierno corporativo","link":"ficha-curso.html?course=16&sector=CFE"}
             
         ],
         "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual. Atención uno a uno consultor-empresa.",
         "tags":{
             "categoria":["SGRAS"]
         }
-    },
-    {
-        "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
-        "tipo":"CP",
-        "cardList":[
-            
-            {"content":"Webinars","link":"./content/Calendario-Fortalecimiento.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
-        ],
-        "tags":{
-                "categoria":["SGRAS"]
-            }
-    },
-    
-    {
-        "titulo":"En línea, a tu ritmo y en cualquier momento",
-        "tipo":"L",
-        "contentList":[
-            {"content" : "Liderazgo", "link":"ficha-curso.html?course=21&sector=CFE"},
-            {"content" : "Orientación a resultados", "link":"ficha-curso.html?course=22&sector=CFE"},
-            {"content" : "Trabajo en equipo", "link":"ficha-curso.html?course=23&sector=CFE"},
-            {"content" : "Capacidad asertiva", "link":"ficha-curso.html?course=24&sector=CFE"},
-            {"content" : "Administración del tiempo", "link":"ficha-curso.html?course=25&sector=CFE"},
-            {"content" : "Manejo de conflictos con inteligencia emocional", "link":"ficha-curso.html?course=26&sector=CFE"},
-            {"content" : "Negociación", "link":"ficha-curso.html?course=27&sector=CFE"},
-            {"content" : "Negociación 2", "link":"ficha-curso.html?course=28&sector=CFE"}
-        ],
-        "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual.",
-        "tags":{
-            "categoria":["LA"]
-        }
-    },
-    {
-        "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
-        "tipo":"CP",
-        "cardList":[
-           
-            {"content":"Webinars","link":"./content/Calendario-Fortalecimiento.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
-        ],
-        "tags":{
-            "categoria":["LA"]
-        }
-    },
-    {
-        "titulo":"En línea, a tu ritmo y en cualquier momento",
-        "tipo":"L",
-        "contentList":[
-            
-            {"content" : "Programa de garantías", "link":"ficha-curso.html?course=29&sector=CFE"}
-        ],
-        "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual.",
-        "tags":{
-            "categoria":["IF"]
-        }
-    },
-    {
-        "titulo":"Cursos Presenciales, conferencias en vivo y webinar",
-        "tipo":"CP",
-        "cardList":[
-           
-            {"content":"Webinars","link":"./content/Calendario-Fortalecimiento.pdf","duracion":"Seminarios web que rompen barreras físicas, conexion e interacción inmediata","tipon":"2","linkimagen":"./resources/webinars.png"}
-        ],
-        "tags":{
-            "categoria":["IF"]
-        }
     }
+    
+    
 
     ],
     
     "categorias": [
         {
-            "categoria":"CE",
-            "nombre":"Comercio Exterior",
-            "segmento":"Social",
-            "dirijido":"Personas físicas",
-            "descripcion":"En esta sección aprenderás sobre los beneficios del ahorro, la inversión, la adopción de servicios financieros y la adecuada administración financiera personal.",
-            "img": "./resources/socialeducacionfinanciera"
-        },
-        {
-            "categoria":"FAF",
-            "nombre":"Financiamiento y Administración Financiera",
-            "segmento":"Empresarial",
-            "dirijido":"Emprendedores y microempresas.",
-            "descripcion":"En esta sección aprenderás desde generar tu idea de negocio hasta hacer realidad tu emprendimiento.",
-            "img": "./resources/creaciondenegocios"
-        },
-        {
             "categoria":"EN",
-            "nombre":"Estrategia de Negocios",
+            "nombre":"Microempresas",
             "segmento":"Empresarial",
             "dirijido":"Microempresas y pequeñas empresas.",
-            "descripcion":"En esta sección aprenderás las mejores prácticas empresariales para que tu empresa perdure y cuente con un modelo de negocio eficiente y rentable.",
+            "descripcion":"Microempresas que estén considerando incursionar en los mercados internacionales.",
             "img": "./resources/fortalizacionempresarial"
         },
         {
             "categoria":"SGRAS",
-            "nombre":"Sistema de Gestión de Riesgos Ambientales y Sociales",
+            "nombre":"Pyme Exportadora",
             "segmento":"Social",
-            "dirijido":"Personas físicas",
-            "descripcion":"En esta sección aprenderás sobre los beneficios del ahorro, la inversión, la adopción de servicios financieros y la adecuada administración financiera personal.",
+            "dirijido":"Pequeñas y medianas empresas",
+            "descripcion":"Pequeñas y medianas empresas que ya exportan y desean consolidar su mercado o desean diversificar exportaciones a nuevos mercados geográficos.",
             "img": "./resources/socialeducacionfinanciera"
         },
         {
-            "categoria":"LA",
-            "nombre":"Liderazgo y Administración",
-            "segmento":"Empresarial",
-            "dirijido":"Emprendedores y microempresas.",
-            "descripcion":"En esta sección aprenderás desde generar tu idea de negocio hasta hacer realidad tu emprendimiento.",
-            "img": "./resources/creaciondenegocios"
+            "categoria":"CE",
+            "nombre":"Competencias Gerenciales",
+            "segmento":"Social",
+            "dirijido":"Empresas",
+            "descripcion":"Habilidades y capacidades que les permitirán generar valor en el capital humano con el objetivo de aumentar su eficiencia y alcanzar sus objetivos.",
+            "img": "./resources/socialeducacionfinanciera"
         },
         {
-            "categoria":"IF",
+            "categoria":"FAF",
             "nombre":"Intermediarios Financieros",
             "segmento":"Empresarial",
-            "dirijido":"Microempresas y pequeñas empresas.",
-            "descripcion":"En esta sección aprenderás las mejores prácticas empresariales para que tu empresa perdure y cuente con un modelo de negocio eficiente y rentable.",
-            "img": "./resources/fortalizacionempresarial"
+            "dirijido":"Empresas",
+            "descripcion":"Programa de formación exclusivo para intermediarios financieros.",
+            "img": "./resources/creaciondenegocios"
         }
+        
+        
 
     ]
 

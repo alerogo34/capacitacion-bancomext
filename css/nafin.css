@@ -310,6 +310,14 @@ h2 {
     .btn-4 {
         max-width: 290px;
     }
+    #textvideomodal{
+        max-width: 850px;
+    }
+    #carouselExampleControls{
+        max-width: 65%;
+        margin-left: 18%;
+    }
+    
 }
 
 @media (max-width: 1199.9px) {
@@ -344,11 +352,18 @@ h2 {
     #header {
         background-position: 53%;
     }
+    #textvideomodal{
+        max-width: 750px;
+    }
+    
 }
 
 @media (max-width: 810px) {
     .inp-suscribete {
         width: 250px;
+    }
+    #textvideomodal{
+        max-width: 750px;
     }
 }
 
@@ -389,6 +404,9 @@ h2 {
     #comentarios-control , .comentarios-carousel{
         height: 320px!important;
     }
+    #textvideomodal{
+        max-width: 650px;
+    }
 }
 
 @media (max-width: 716.9px) {
@@ -404,12 +422,24 @@ h2 {
     #ultimas-noticias {
         background-position: 30%;
     }
+    #carouselExampleControls{
+        max-width: 85%;
+        margin-left: 7%;
+    }
 }
 
 @media (max-width: 575.9px) {
     #header {
         height: 730px;
     }
+    #videoModal{
+        max-width: 480px;
+    }
+    #textvideomodal{
+        max-width: 460px;
+    }
+    
+   
 }
 
 @media (max-width: 471.9px) {
@@ -423,6 +453,17 @@ h2 {
     .btn-4 {
         max-width: 290px !important;
     }
+    #videoModal{
+        max-width: 430px;
+    }
+    #textvideomodal{
+        max-width: 410px;
+    }
+    #carouselExampleControls{
+        max-width: 95%;
+        margin-left: 5%;
+    }
+   
 }
 
 @media (max-width: 409.9px) {
@@ -430,12 +471,37 @@ h2 {
     #img-header {
         width: 220px !important;
     }
+    #videoModal{
+        max-width: 350px;
+    }
+    #textvideomodal{
+        max-width: 300px;
+    }
+    
 }
 
 @media (max-width: 359.9px) {
 
     .cifras {
         padding: 0 0.4em !important;
+    }
+    #videoModal{
+        max-width: 300px;
+    }
+    #textvideomodal{
+        max-width: 250px;
+    }
+    #lista-course-container h3{
+        font-size: 1.33rem;
+    }
+   
+}
+
+@media (max-width: 250px) {
+
+   
+    #textvideomodal{
+        max-width: 100px;
     }
 }
 

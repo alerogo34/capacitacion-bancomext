@@ -1,24 +1,22 @@
 [
     {
         "tipo":"CE",
-        "titulo":"Comercio Exterior",
+        "titulo":"Competencias Gerenciales",
         "desplegar":"show",
         "contentList":[
-
-        
             {
-                "id": "1",
-                "nombre": "Medios de pago internacional",
-                "instructor": "Juan Perez",
-                "categoria": "Social",
+                "id": "21",
+                "nombre": "Liderazgo",
+                "instructor": "Rosa María Arduino",
+                "categoria": "Competencias Gerenciales",
                 "area": "Educación Financiera",
                 "duracion": "2 semanas",
                 "ubicacion": "En línea",
                 "requisitos": "Es recomendable haber tomado el curso de fundamentos",
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Desarrollar habilidades y conocimientos a fin de identificar elementos de planeación de tus finanzas en el ámbito individual y empresarial para tomar decisiones asertivas en el manejo de tus recursos económicos, fomentando la inversión.",
-                "temario": "1. El sector financiero y la inclusión financiera <br> 2. Finanzas personales <br>3. Instrumentos de inversión",
-                "programa": "Comercio Exterior",
+                "vision": "Se identificarán los elementos básicos de contabilidad que se manejan en las micro y pequeñas empresas.",
+                "temario": "1. Importancia de la contabilidad <br>2. Registros y cuentas <br>3. Estados financieros y obligaciones fiscales",
+                "programa": "Competencias Gerenciales",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -26,24 +24,74 @@
                     3,
                     4
                 ],
-                "image": "./resources/cursos/mediosdepagoInternacional-1755x380.jpg",
-                "miniature": "./resources/cursos/mediosdepagointernacional150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=2",
-                "videolink":"./resources/videos/CETES.mp4"
+                "image": "./resources/cursos/Liderazgo-1755x380.jpg",
+                "miniature": "./resources/cursos/Liderazgo150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=26",
+                "videolink":"./resources/videos/contabilidad-basica-para-micro.mp4"
             },
             {
-                "id": "2",
-                "nombre": "Cartas de crédito",
-                "instructor": "Juan Perez",
-                "categoria": "Social",
+                "id": "22",
+                "nombre": "Orientación a resultados",
+                "instructor": "Rosa María Arduino",
+                "categoria": "Competencias Gerenciales",
                 "area": "Educación Financiera",
                 "duracion": "2 semanas",
                 "ubicacion": "En línea",
                 "requisitos": "Es recomendable haber tomado el curso de fundamentos",
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Conocerás qué es Buró de Crédito, cómo funciona esta base de datos, identificarás los servicios que ofrece, los beneficios de mantener un historial crediticio sano y las acciones para lograrlo.",
-                "temario": "1. ¿Qué es el buró de crédito? <br> 2. Mi reporte de crédito especial",
-                "programa": "Comercio Exterior",
+                "vision": "Guía a los empresarios a identificar los elementos básicos de contabilidad para llevar su negocio.",
+                "temario": "Módulo I. Importancia de la contabilidad <br>Módulo II. Registros y cuentas <br>Módulo III. Estados financieros y obligaciones fiscales",
+                "programa": "Competencias Gerenciales",
+                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
+                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
+                "relacionados": [
+                    1,
+                    3,
+                    4
+                ],
+                "image": "./resources/cursos/orientacionaresultados-1755x380.jpg",
+                "miniature": "./resources/cursos/orientacionaresultados150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=22",
+                "videolink":""
+            },
+            {
+                "id": "23",
+                "nombre": "Trabajo en equipo",
+                "instructor": "Rosa María Arduino",
+                "categoria": "Competencias Gerenciales",
+                "area": "Educación Financiera",
+                "duracion": "2 semanas",
+                "ubicacion": "En línea",
+                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
+                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
+                "vision": "Guía a los empresarios a identificar los elementos básicos de contabilidad para llevar su negocio.",
+                "temario": "Módulo I. Importancia de la contabilidad <br>Módulo II. Registros y cuentas <br>Módulo III. Estados financieros y obligaciones fiscales",
+                "programa": "Competencias Gerenciales",
+                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
+                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
+                "relacionados": [
+                    1,
+                    3,
+                    4
+                ],
+                "image": "./resources/cursos/trabajoenequipo-1755x380.jpg",
+                "miniature": "./resources/cursos/trabajoenequipo150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=33",
+                "videolink":""
+            },
+            {
+                "id": "24",
+                "nombre": "Capacidad asertiva",
+                "instructor": "Rosa María Arduino",
+                "categoria": "Competencias Gerenciales",
+                "area": "Educación Financiera",
+                "duracion": "2 semanas",
+                "ubicacion": "En línea",
+                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
+                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
+                "vision": "Guía a los empresarios a identificar los elementos básicos de contabilidad para llevar su negocio.",
+                "temario": "Módulo I. Importancia de la contabilidad <br>Módulo II. Registros y cuentas <br>Módulo III. Estados financieros y obligaciones fiscales",
+                "programa": "Competencias Gerenciales",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -52,48 +100,23 @@
                     4
                 ],
                 "image": "./resources/cursos/capacidadasertiva-1755x380.jpg",
-                "miniature": "./resources/cursos/cartasdecredito150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=3",
-                "videolink":"./resources/videos/buro_credito.mp4"
+                "miniature": "./resources/cursos/capacidadasertiva150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=37",
+                "videolink":""
             },
             {
-                "id": "3",
-                "nombre": "Factoraje internacional",
-                "instructor": "Rosa Arduino",
-                "categoria": "Social",
-                "area": "Educación Financiera",
-                "duracion": "2 semanas",
-                "ubicacion": "En línea",
-                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
-                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "El participante identificará bajo sus herramientas si su empresa tiene necesidad de acceder a un financiamiento o bien solo requiere realizar cambios en su eficiencia operativa.",
-                "temario": "1. Cuándo solicitar un financiamiento <br> 2. Calculando mis números <br>3. Mi proyección de negocio",
-                "programa": "Comercio Exterior",
-                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
-                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
-                "relacionados": [
-                    1,
-                    3,
-                    4
-                ],
-                "image": "./resources/cursos/factorajeinternacional-1755x380.jpg",
-                "miniature": "./resources/cursos/factorajeinternacional150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=4",
-                "videolink":"./resources/videos/aprende_a_endeudarte.mp4"
-            },
-            {
-                "id": "4",
-                "nombre": "Seguro de crédito a la exportación",
+                "id": "25",
+                "nombre": "Administración del tiempo",
                 "instructor": "Rosa María Arduino",
-                "categoria": "Social",
+                "categoria": "Competencias Gerenciales",
                 "area": "Educación Financiera",
                 "duracion": "2 semanas",
                 "ubicacion": "En línea",
                 "requisitos": "Es recomendable haber tomado el curso de fundamentos",
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Aportar sugerencias y recomendaciones para la profesionalización y el desarrollo de la empresa, así como detonar procesos de reflexión y de crecimiento personal que permitan a las mujeres de negocios y emprendedoras mejorar su calidad de vida personal, familiar y empresarial.",
-                "temario": "1. Conocer para emprender <br>2. Haz crecer tu negocio <br>3.Competitividad para tu negocio",
-                "programa": "Comercio Exterior",
+                "vision": "Orientar a los empresarios sobre los aspectos legales más importantes de su negocio, relacionados con la revisión de contratos (contable y fiscal), contratación de personal y cobranza, con el fin de prevenir problemas o corregirlos oportunamente.",
+                "temario": "1. Contratos <br> 2. Delitos e infracciones <br>3. Procesos internos de la empresa",
+                "programa": "Competencias Gerenciales",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -101,19 +124,131 @@
                     3,
                     4
                 ],
-                "image": "./resources/cursos/segurodecreditoalaexportación-1755x380.jpg",
-                "miniature": "./resources/cursos/segurodecreditoalaexportacion150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=45",
-                "videolink":"./resources/videos/mujeres_emprendedoras.mp4"
+                "image": "./resources/cursos/administraciondeltiempo-1755x380.jpg",
+                "miniature": "./resources/cursos/administraciondeltiempo150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=35",
+                "videolink":"./resources/videos/como-tratar-exitosamente-los problemas-legale.mp4"
+            },
+            {
+                "id": "26",
+                "nombre": "Manejo de conflictos con inteligencia emocional",
+                "instructor": "Rosa María Arduino",
+                "categoria": "Competencias Gerenciales",
+                "area": "Educación Financiera",
+                "duracion": "2 semanas",
+                "ubicacion": "En línea",
+                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
+                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
+                "vision": "Identificar la importancia de tener la marca registrada de tu empresa o negocio como factor de plusvalía y conocer los requerimientos y trámites necesarios para realizarlo.",
+                "temario": "1. Marca <br> 2. Registro <br>3. Normatividad",
+                "programa": "Competencias Gerenciales",
+                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
+                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
+                "relacionados": [
+                    1,
+                    3,
+                    4
+                ],
+                "image": "./resources/cursos/manejodeconflictosconinteligenciaemocional-1755x380.jpg",
+                "miniature": "./resources/cursos/manejodeconflictosconinteligenciaemocional150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=27",
+                "videolink":"./resources/videos/marca-registrada.mp4"
+            },
+            {
+                "id": "27",
+                "nombre": "Negociación",
+                "instructor": "Rosa María Arduino",
+                "categoria": "Competencias Gerenciales",
+                "area": "Educación Financiera",
+                "duracion": "2 semanas",
+                "ubicacion": "En línea",
+                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
+                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
+                "vision": "Un negocio requiere que todos sus integrantes elaboren sus actividades con calidad y que esta pueda llegar a ser medible y coherente con el giro de tu negocio. Este curso tiene como objetivo reflexionar sobre la calidad en todos los procesos reflejada en una venta o entrega exitosa.",
+                "temario": "1. Conocer al cliente<br>2. Gestión de calidad <br>3. Implementación de Justo a Tiempo y Mejora Continua<br>4. Certificación",
+                "programa": "Competencias Gerenciales",
+                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
+                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
+                "relacionados": [
+                    1,
+                    3,
+                    4
+                ],
+                "image": "./resources/cursos/negociacion-1755x380.jpg",
+                "miniature": "./resources/cursos/negociacion150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=34",
+                "videolink":"./resources/videos/calidad-en-las-mipymes.mp4"
+            },
+            {
+                "id": "28",
+                "nombre": "Negociación 2",
+                "instructor": "Rosa María Arduino",
+                "categoria": "Competencias Gerenciales",
+                "area": "Educación Financiera",
+                "duracion": "2 semanas",
+                "ubicacion": "En línea",
+                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
+                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
+                "vision": "Identificar los componentes involucrados en la reactivación económica de las micro, pequeñas y medianas empresas (mipymes) después de un desastre.",
+                "temario": "1. Prevención de Desastres y Continuidad de Negocios <br> 2. Continuidad del negocio",
+                "programa": "Competencias Gerenciales",
+                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
+                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
+                "relacionados": [
+                    1,
+                    3,
+                    4
+                ],
+                "image": "./resources/cursos/negociacion2-1755x380.jpg",
+                "miniature": "./resources/cursos/negociacion2-150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=29",
+                "videolink":"./resources/videos/prevencion_de_desastres.mp4"
             }
+        
+            
         ]
     },
     {
         "tipo":"FAF",
-        "titulo":"Financiamiento y Administración Financiera",
+        "titulo":"Intermediarios Financieros",
         "desplegar":"hide",
         "contentList":[
-            {
+             {
+                "id": "29",
+                "nombre": "Programa de garantías",
+                "instructor": "Rosa María Arduino",
+                "categoria": "Intermediarios Financieros",
+                "area": "Educación Financiera",
+                "duracion": "2 semanas",
+                "ubicacion": "En línea",
+                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
+                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
+                "vision": "Brinda al empresario información relevante sobre la importancia de un Plan de Continuidad de Negocios para las MIPYMES, ante un desastre natural, para la reactivación económica.",
+                "temario": "1. ¿Qué es un crédito? <br> 2. Tipos de crédito <br>3. Uso de crédito",
+                "programa": "Intermediarios Financieros",
+                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
+                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
+                "relacionados": [
+                    1,
+                    3,
+                    4
+                ],
+                "image": "./resources/cursos/programadegarantias-1755x380",
+                "miniature": "./resources/cursos/programadegarantias150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=39",
+                "videolink":""
+            }
+
+           
+        ]
+        
+    },
+    {
+        "tipo":"EN",
+        "titulo":"Microempresas",
+        "desplegar":"hide",
+        "contentList":[
+             {
                 "id": "5",
                 "nombre": "Conceptos financieros básicos para empresas de comercio exterior",
                 "instructor": "Rosa María Arduino",
@@ -125,7 +260,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Transmitir elementos básicos de un plan de negocios, para que evalúes tu idea empresarial, sus principales fortalezas y áreas de oportunidad  para tener una idea más concreta de las posibilidades de llevarlo a la realidad en el corto plazo.",
                 "temario": "1. Características del mundo emprendedor <br> 2. Plan de Negocio <br>3. Dale forma a tu negocio <br>4. De cuánto estamos hablando",
-                "programa": "Financiamiento y Administración Financiera",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -150,7 +285,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Brinda información valiosa para que el emprendedor conozca los <br>conceptos y principios básicos de la <br>investigación de mercados así como<br>la practica de técnicas sencillas y de<br>fácil aplicación para determinar su mercado objetivo.",
                 "temario": "1. ¿Qué es un crédito? <br> 2. Tipos de crédito <br>3. Uso de crédito",
-                "programa": "Financiamiento y Administración Financiera",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -175,7 +310,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Proporcionar al empresario los elementos necesarios para determinar el costo unitario del producto que fabrica, y así conocer sus márgenes de utilidad por unidad.",
                 "temario": "1. Costos, importancia y clasificación <br> 2. Calculando costos <br>3. Precio para el mercado",
-                "programa": "Financiamiento y Administración Financiera",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -200,7 +335,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Conocer los aspectos estratégicos, mercadológicos y de imagen que una empresa debe analizar, planear y llevar a cabo para una promoción y comercialización eficiente, tanto de un Producto como de un Servicio. ",
                 "temario": "1. Productos y Servicios <br> 2. Estrategias para mejorar tu negocio o empresa",
-                "programa": "Financiamiento y Administración Financiera",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -225,7 +360,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Conocer herramientas para mejorar las posibilidades de crecimiento de mi negocio. Un buen servicio al cliente hace crecer tu negocio, para logarlo se deberán realizar una serie de reflexiones, tomar decisiones,  llevar a cabo acciones y medir su impacto, para establecer modelos de mejora continua.",
                 "temario": "1. Conociendo a mis clientes <br> 2. Fidelización de mis clientes",
-                "programa": "Financiamiento y Administración Financiera",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -250,7 +385,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Te presentaremos todos los elementos que necesitas considerar como contribuyente respecto de este régimen fiscal y su relevancia para organizar tus obligaciones fiscales.",
                 "temario": "1. Qué es el Régimen Simplificado de Confianza <br> 2. Quién puede tributar en el RESICO <br>3. Tributantes RESICO",
-                "programa": "Financiamiento y Administración Financiera",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -275,7 +410,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "En este curso identificarás la manera de proteger tus invenciones y signos distintivos y los trámites para solicitar su protección ante el Instituto Mexicano de la Propiedad Industrial (IMPI).",
                 "temario": "1. Propiedad Industrial <br> 2. Signos Distintivos <br>3. Invenciones <br>4. Servicios de Información Tecnológica",
-                "programa": "Financiamiento y Administración Financiera",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -300,7 +435,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Sensibilizar a los participantes sobre la importancia de contar con herramientas para presentar su proyecto de negocio frente a posibles fuentes de financiamiento, así como aportar sugerencias para dicha presentación.",
                 "temario": "1. Pitch, la tarjeta de presentación de mi negocio <br> 2. Para qué me sirve contar el pitch de mi negocio",
-                "programa": "Financiamiento y Administración Financiera",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -325,7 +460,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Obtendrás los conocimientos necesarios para identificar tus necesidades de crédito, seleccionar una entidad financiera que se adecue a dichas necesidades y tramitar tu solicitud de crédito.",
                 "temario": "1. Instituciones o entidades que ofrecen microcrédito <br>2. Mi solicitud <br>3. Las evaluaciones y la importancia de un buen historial crediticio",
-                "programa": "Financiamiento y Administración Financiera",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -350,7 +485,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Identificar e impulsar tus habilidades, conocimientos y actitudes como mujer empresaria.",
                 "temario": "1. La situación de la mujer <br> 2. Retos y oportunidades en las empresas dirigidas por mujeres <br> 3. Fortalecimiento y profesionalización de la mujer empresaria",
-                "programa": "Financiamiento y Administración Financiera",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -362,15 +497,7 @@
                 "miniature": "./resources/cursos/aspectoslegalesenelcredito150x150.jpg",
                 "moodlelink": "http://52.142.54.117/course/view.php?id=46",
                 "videolink":"./resources/videos/iniciativa_mujer.mp4"
-            }
-        ]
-        
-    },
-    {
-        "tipo":"EN",
-        "titulo":"Estrategia de Negocios",
-        "desplegar":"hide",
-        "contentList":[
+            },
             {
                 "id": "15",
                 "nombre": "La importancia del financiamiento para la competitividad",
@@ -383,7 +510,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Revisaremos los conceptos que debes conocer acerca de la empresa familiar, los cuales te permitirá minimizar situaciones de conflicto que impidan el crecimiento, continuidad, desarrollo y administración de la empresa familiar en la cual participas.",
                 "temario": "1. La empresa familiar en México <br> 2. Los roles en la empresa familiar <br> 3. La permanencia o venta de la empresa familiar",
-                "programa": "Estrategia de Negocios",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -396,31 +523,7 @@
                 "moodlelink": "http://52.142.54.117/course/view.php?id=15",
                 "videolink":"./resources/videos/retos-de-la-empresa-familiar.mp4"
             },
-            {
-                "id": "16",
-                "nombre": "Gobierno corporativo",
-                "instructor": "Rosa María Arduino",
-                "categoria": "Social",
-                "area": "Educación Financiera",
-                "duracion": "2 semanas",
-                "ubicacion": "En línea",
-                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
-                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "El participante podrá implementar las actividades necesarias para realizar una planeación estratégica en su empresa o negocio.",
-                "temario": "1. La planeación estratégica <br> 2. Proceso de planeación estratégica <br>3. Cómo aplica la planeación estratégica a mi empresa <br>4. El plan táctico y operativo de una empresa <br>5. Ejecución de la planeación estratégica",
-                "programa": "Estrategia de Negocios",
-                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
-                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
-                "relacionados": [
-                    1,
-                    3,
-                    4
-                ],
-                "image": "./resources/cursos/gobiernocorporativo1755x380.jpg",
-                "miniature": "./resources/cursos/gobiernocorporativo150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=16",
-                "videolink":"./resources/videos/planeacion_estrategica.mp4"
-            },
+           
             {
                 "id": "17",
                 "nombre": "Medidas de prevención para la ciberseguridad",
@@ -433,7 +536,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Contarás con los conocimientos y elementos básicos para elaborar e implementar un modelo de ventas efectivo.",
                 "temario": "1. La venta <br> 2. Fortalece tu fuerza de ventas <br>3. El proceso de venta",
-                "programa": "Estrategia de Negocios",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -458,7 +561,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Proporcionar las herramientas y conocimientos básicos para llevar a cabo una estrategia de promoción en redes sociales para tu empresa e identificar su potencial para contribuir al posicionamiento y venta de tus productos y/o servicios; sin importar si tu negocio es nuevo o ya tiene tiempo establecido.",
                 "temario": "1. Cómo pueden las redes sociales ayudar a mi negocio <br>2. Mi negocio en las redes sociales",
-                "programa": "Estrategia de Negocios",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -483,7 +586,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Mostrar a los participantes la importancia de considerar y gestionar a los colaboradores, como el capital más importante del negocio. Así como, mostrar algunas sugerencias y herramientas para mejorar funciones importantes, como el reclutamiento, selección, contratación y capacitación de personal.",
                 "temario": "1. Atracción y selección de talento <br> 2. Contratación y seguimiento del talento",
-                "programa": "Estrategia de Negocios",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -495,15 +598,7 @@
                 "miniature": "./resources/cursos/lasmujeresysupapelenelcomerciointernacional150x150.jpg",
                 "moodlelink": "http://52.142.54.117/course/view.php?id=19",
                 "videolink":"./resources/videos/el-recurso-humano-es-la-pyme.mp4"
-            }
-            
-        ]
-    },
-    {
-        "tipo":"SGRAS",
-        "titulo":"Sistema de Gestión de Riesgos Ambientales y Sociales",
-        "desplegar":"hide",
-        "contentList":[
+            },
             {
                 "id": "20",
                 "nombre": "Responsabilidad ambiental y social",
@@ -516,7 +611,7 @@
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
                 "vision": "Guía a los empresarios a identificar los elementos básicos de contabilidad para llevar su negocio.",
                 "temario": "Módulo I. Importancia de la contabilidad <br>Módulo II. Registros y cuentas <br>Módulo III. Estados financieros y obligaciones fiscales",
-                "programa": "Sistema de Gestión de Riesgos Ambientales y Sociales",
+                "programa": "Microempresas",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -529,26 +624,27 @@
                 "moodlelink": "http://52.142.54.117/course/view.php?id=20",
                 "videolink":""
             }
+            
         ]
     },
     {
-        "tipo":"LA",
-        "titulo":"Liderazgo y Administración",
+        "tipo":"SGRAS",
+        "titulo":"Pyme Exportadora",
         "desplegar":"hide",
         "contentList":[
             {
-                "id": "21",
-                "nombre": "Liderazgo",
-                "instructor": "Rosa María Arduino",
+                "id": "1",
+                "nombre": "Medios de pago internacional",
+                "instructor": "Juan Perez",
                 "categoria": "Social",
                 "area": "Educación Financiera",
                 "duracion": "2 semanas",
                 "ubicacion": "En línea",
                 "requisitos": "Es recomendable haber tomado el curso de fundamentos",
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Se identificarán los elementos básicos de contabilidad que se manejan en las micro y pequeñas empresas.",
-                "temario": "1. Importancia de la contabilidad <br>2. Registros y cuentas <br>3. Estados financieros y obligaciones fiscales",
-                "programa": "Liderazgo y Administración",
+                "vision": "Desarrollar habilidades y conocimientos a fin de identificar elementos de planeación de tus finanzas en el ámbito individual y empresarial para tomar decisiones asertivas en el manejo de tus recursos económicos, fomentando la inversión.",
+                "temario": "1. El sector financiero y la inclusión financiera <br> 2. Finanzas personales <br>3. Instrumentos de inversión",
+                "programa": "Pyme Exportadora",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -556,74 +652,24 @@
                     3,
                     4
                 ],
-                "image": "./resources/cursos/Liderazgo-1755x380.jpg",
-                "miniature": "./resources/cursos/Liderazgo150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=26",
-                "videolink":"./resources/videos/contabilidad-basica-para-micro.mp4"
+                "image": "./resources/cursos/mediosdepagoInternacional-1755x380.jpg",
+                "miniature": "./resources/cursos/mediosdepagointernacional150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=2",
+                "videolink":"./resources/videos/CETES.mp4"
             },
             {
-                "id": "22",
-                "nombre": "Orientación a resultados",
-                "instructor": "Rosa María Arduino",
+                "id": "2",
+                "nombre": "Cartas de crédito",
+                "instructor": "Juan Perez",
                 "categoria": "Social",
                 "area": "Educación Financiera",
                 "duracion": "2 semanas",
                 "ubicacion": "En línea",
                 "requisitos": "Es recomendable haber tomado el curso de fundamentos",
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Guía a los empresarios a identificar los elementos básicos de contabilidad para llevar su negocio.",
-                "temario": "Módulo I. Importancia de la contabilidad <br>Módulo II. Registros y cuentas <br>Módulo III. Estados financieros y obligaciones fiscales",
-                "programa": "Liderazgo y Administración",
-                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
-                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
-                "relacionados": [
-                    1,
-                    3,
-                    4
-                ],
-                "image": "./resources/cursos/orientacionaresultados-1755x380.jpg",
-                "miniature": "./resources/cursos/orientacionaresultados150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=22",
-                "videolink":""
-            },
-            {
-                "id": "23",
-                "nombre": "Trabajo en equipo",
-                "instructor": "Rosa María Arduino",
-                "categoria": "Social",
-                "area": "Educación Financiera",
-                "duracion": "2 semanas",
-                "ubicacion": "En línea",
-                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
-                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Guía a los empresarios a identificar los elementos básicos de contabilidad para llevar su negocio.",
-                "temario": "Módulo I. Importancia de la contabilidad <br>Módulo II. Registros y cuentas <br>Módulo III. Estados financieros y obligaciones fiscales",
-                "programa": "Liderazgo y Administración",
-                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
-                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
-                "relacionados": [
-                    1,
-                    3,
-                    4
-                ],
-                "image": "./resources/cursos/trabajoenequipo-1755x380.jpg",
-                "miniature": "./resources/cursos/trabajoenequipo150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=33",
-                "videolink":""
-            },
-            {
-                "id": "24",
-                "nombre": "Capacidad asertiva",
-                "instructor": "Rosa María Arduino",
-                "categoria": "Social",
-                "area": "Educación Financiera",
-                "duracion": "2 semanas",
-                "ubicacion": "En línea",
-                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
-                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Guía a los empresarios a identificar los elementos básicos de contabilidad para llevar su negocio.",
-                "temario": "Módulo I. Importancia de la contabilidad <br>Módulo II. Registros y cuentas <br>Módulo III. Estados financieros y obligaciones fiscales",
-                "programa": "Liderazgo y Administración",
+                "vision": "Conocerás qué es Buró de Crédito, cómo funciona esta base de datos, identificarás los servicios que ofrece, los beneficios de mantener un historial crediticio sano y las acciones para lograrlo.",
+                "temario": "1. ¿Qué es el buró de crédito? <br> 2. Mi reporte de crédito especial",
+                "programa": "Pyme Exportadora",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -632,23 +678,23 @@
                     4
                 ],
                 "image": "./resources/cursos/capacidadasertiva-1755x380.jpg",
-                "miniature": "./resources/cursos/capacidadasertiva150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=37",
-                "videolink":""
+                "miniature": "./resources/cursos/cartasdecredito150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=3",
+                "videolink":"./resources/videos/buro_credito.mp4"
             },
             {
-                "id": "25",
-                "nombre": "Administración del tiempo",
-                "instructor": "Rosa María Arduino",
+                "id": "3",
+                "nombre": "Factoraje internacional",
+                "instructor": "Rosa Arduino",
                 "categoria": "Social",
                 "area": "Educación Financiera",
                 "duracion": "2 semanas",
                 "ubicacion": "En línea",
                 "requisitos": "Es recomendable haber tomado el curso de fundamentos",
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Orientar a los empresarios sobre los aspectos legales más importantes de su negocio, relacionados con la revisión de contratos (contable y fiscal), contratación de personal y cobranza, con el fin de prevenir problemas o corregirlos oportunamente.",
-                "temario": "1. Contratos <br> 2. Delitos e infracciones <br>3. Procesos internos de la empresa",
-                "programa": "Liderazgo y Administración",
+                "vision": "El participante identificará bajo sus herramientas si su empresa tiene necesidad de acceder a un financiamiento o bien solo requiere realizar cambios en su eficiencia operativa.",
+                "temario": "1. Cuándo solicitar un financiamiento <br> 2. Calculando mis números <br>3. Mi proyección de negocio",
+                "programa": "Pyme Exportadora",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -656,14 +702,14 @@
                     3,
                     4
                 ],
-                "image": "./resources/cursos/administraciondeltiempo-1755x380.jpg",
-                "miniature": "./resources/cursos/administraciondeltiempo150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=35",
-                "videolink":"./resources/videos/como-tratar-exitosamente-los problemas-legale.mp4"
+                "image": "./resources/cursos/factorajeinternacional-1755x380.jpg",
+                "miniature": "./resources/cursos/factorajeinternacional150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=4",
+                "videolink":"./resources/videos/aprende_a_endeudarte.mp4"
             },
             {
-                "id": "26",
-                "nombre": "Manejo de conflictos con inteligencia emocional",
+                "id": "4",
+                "nombre": "Seguro de crédito a la exportación",
                 "instructor": "Rosa María Arduino",
                 "categoria": "Social",
                 "area": "Educación Financiera",
@@ -671,9 +717,9 @@
                 "ubicacion": "En línea",
                 "requisitos": "Es recomendable haber tomado el curso de fundamentos",
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Identificar la importancia de tener la marca registrada de tu empresa o negocio como factor de plusvalía y conocer los requerimientos y trámites necesarios para realizarlo.",
-                "temario": "1. Marca <br> 2. Registro <br>3. Normatividad",
-                "programa": "Liderazgo y Administración",
+                "vision": "Aportar sugerencias y recomendaciones para la profesionalización y el desarrollo de la empresa, así como detonar procesos de reflexión y de crecimiento personal que permitan a las mujeres de negocios y emprendedoras mejorar su calidad de vida personal, familiar y empresarial.",
+                "temario": "1. Conocer para emprender <br>2. Haz crecer tu negocio <br>3.Competitividad para tu negocio",
+                "programa": "Pyme Exportadora",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -681,14 +727,14 @@
                     3,
                     4
                 ],
-                "image": "./resources/cursos/manejodeconflictosconinteligenciaemocional-1755x380.jpg",
-                "miniature": "./resources/cursos/manejodeconflictosconinteligenciaemocional150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=27",
-                "videolink":"./resources/videos/marca-registrada.mp4"
+                "image": "./resources/cursos/segurodecreditoalaexportación-1755x380.jpg",
+                "miniature": "./resources/cursos/segurodecreditoalaexportacion150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=45",
+                "videolink":"./resources/videos/mujeres_emprendedoras.mp4"
             },
-            {
-                "id": "27",
-                "nombre": "Negociación",
+             {
+                "id": "16",
+                "nombre": "Gobierno corporativo",
                 "instructor": "Rosa María Arduino",
                 "categoria": "Social",
                 "area": "Educación Financiera",
@@ -696,9 +742,9 @@
                 "ubicacion": "En línea",
                 "requisitos": "Es recomendable haber tomado el curso de fundamentos",
                 "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Un negocio requiere que todos sus integrantes elaboren sus actividades con calidad y que esta pueda llegar a ser medible y coherente con el giro de tu negocio. Este curso tiene como objetivo reflexionar sobre la calidad en todos los procesos reflejada en una venta o entrega exitosa.",
-                "temario": "1. Conocer al cliente<br>2. Gestión de calidad <br>3. Implementación de Justo a Tiempo y Mejora Continua<br>4. Certificación",
-                "programa": "Liderazgo y Administración",
+                "vision": "El participante podrá implementar las actividades necesarias para realizar una planeación estratégica en su empresa o negocio.",
+                "temario": "1. La planeación estratégica <br> 2. Proceso de planeación estratégica <br>3. Cómo aplica la planeación estratégica a mi empresa <br>4. El plan táctico y operativo de una empresa <br>5. Ejecución de la planeación estratégica",
+                "programa": "Pyme Exportadora",
                 "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
                 "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
                 "relacionados": [
@@ -706,69 +752,13 @@
                     3,
                     4
                 ],
-                "image": "./resources/cursos/negociacion-1755x380.jpg",
-                "miniature": "./resources/cursos/negociacion150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=34",
-                "videolink":"./resources/videos/calidad-en-las-mipymes.mp4"
-            },
-            {
-                "id": "28",
-                "nombre": "Negociación 2",
-                "instructor": "Rosa María Arduino",
-                "categoria": "Social",
-                "area": "Educación Financiera",
-                "duracion": "2 semanas",
-                "ubicacion": "En línea",
-                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
-                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Identificar los componentes involucrados en la reactivación económica de las micro, pequeñas y medianas empresas (mipymes) después de un desastre.",
-                "temario": "1. Prevención de Desastres y Continuidad de Negocios <br> 2. Continuidad del negocio",
-                "programa": "Liderazgo y Administración",
-                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
-                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
-                "relacionados": [
-                    1,
-                    3,
-                    4
-                ],
-                "image": "./resources/cursos/negociacion2-1755x380.jpg",
-                "miniature": "./resources/cursos/negociacion2-150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=29",
-                "videolink":"./resources/videos/prevencion_de_desastres.mp4"
+                "image": "./resources/cursos/gobiernocorporativo1755x380.jpg",
+                "miniature": "./resources/cursos/gobiernocorporativo150x150.jpg",
+                "moodlelink": "http://52.142.54.117/course/view.php?id=16",
+                "videolink":"./resources/videos/planeacion_estrategica.mp4"
             }
+
             
-        ]
-    },
-    {
-        "tipo":"IF",
-        "titulo":"Intermediarios Financieros",
-        "desplegar":"hide",
-        "contentList":[
-            {
-                "id": "29",
-                "nombre": "Programa de garantías",
-                "instructor": "Rosa María Arduino",
-                "categoria": "Social",
-                "area": "Educación Financiera",
-                "duracion": "2 semanas",
-                "ubicacion": "En línea",
-                "requisitos": "Es recomendable haber tomado el curso de fundamentos",
-                "audencia": "Personas Fisicas interesadas en crear su primer negocio",
-                "vision": "Brinda al empresario información relevante sobre la importancia de un Plan de Continuidad de Negocios para las MIPYMES, ante un desastre natural, para la reactivación económica.",
-                "temario": "1. ¿Qué es un crédito? <br> 2. Tipos de crédito <br>3. Uso de crédito",
-                "programa": "Intermediarios Financieros",
-                "instructorDetalle": "Licenciada en Administración de Empresas, Maestría en Administración por el Instituto Tecnológico de Sonora (ITSON), Maestría en Finanzas por el Instituto Tecnológico Autónomo de México (ITAM).​  Consultora con más de 25 años de experiencia en el desarrollo de Mipymes.​ Directora y Fundadora de EIDE Consultores, despacho de Capacitación, Consultoría, gestión de Financiamiento y Certificación de Empresas.​ Directora de Emprende Idea Incubadora, con más de 2,300 empresas atendidas Federales, Estatales y Municipales.​",
-                "registro": "1. Selecciona el curso <br>  2. Segundo paso <br> 3. Tercer paso",
-                "relacionados": [
-                    1,
-                    3,
-                    4
-                ],
-                "image": "./resources/cursos/programadegarantias-1755x380",
-                "miniature": "./resources/cursos/programadegarantias150x150.jpg",
-                "moodlelink": "http://52.142.54.117/course/view.php?id=39",
-                "videolink":""
-            }
         ]
     }
 ]

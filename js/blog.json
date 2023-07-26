@@ -1,8 +1,8 @@
 {
     "blogList":[
-        {"id":1, "duration":8, "month":"Enero","day":"20","description":"contenido descripcion 1", "titulo":"Cartas de crédito","link":"./ficha-curso.html?course=2&sector=CEF","image":"./resources/cursos/cartasdecredito150x150.jpg","miniature":"./resources/cursos/cartasdecredito150x150.jpg", "relacionados":[2,3]},
-        {"id":2, "duration":8, "month":"Enero","day":"21","description":"contenido descripcion 2", "titulo":"Guía fiscal para los negocios","link":"./ficha-curso.html?course=10&sector=CEF","image":"./resources/cursos/guiafiscalparalosnegocios150x150.jpg","miniature":"./resources/cursos/comoobteneruncreditoenunbanco150x150.png" ,"relacionados":[2,3]},
-        {"id":3, "duration":8, "month":"Enero","day":"22","description":"contenido descripcion 3", "titulo":"Liderazgo","link":"./ficha-curso.html?course=21&sector=CEF","image":"./resources/maps/iconostablaestados/70.png","miniature":"./resources/cursos/Liderazgo150x150.jpg", "relacionados":[2,3]}
+        {"id":1, "duration":8, "month":"Enero","day":"20","description":"contenido descripcion 1", "titulo":"Cómo solicitar un crédito para el comercio exterior","link":"./ficha-curso.html?course=12&sector=CEF","image":"./resources/cursos/comosolicitaruncreditoparaelcomercioexterior150x150.jpg","miniature":"./resources/cursos/comosolicitaruncreditoparaelcomercioexterior150x150.jpg", "relacionados":[2,3]},
+        {"id":2, "duration":8, "month":"Enero","day":"21","description":"contenido descripcion 2", "titulo":"Tipos de financiamiento","link":"./ficha-curso.html?course=13&sector=CEF","image":"./resources/cursos/tiposdefinanciamiento150x150.jpg","miniature":"./resources/cursos/tiposdefinanciamiento150x150.jpg" ,"relacionados":[2,3]},
+        {"id":3, "duration":8, "month":"Enero","day":"22","description":"contenido descripcion 3", "titulo":"¿Cómo analizar tus estados financieros?","link":"./ficha-curso.html?course=6&sector=CEF","image":"./resources/cursos/comoanalizartusestadosfinancieros150x150.jpg","miniature":"./resources/cursos/comoanalizartusestadosfinancieros150x150.jpg", "relacionados":[2,3]}
     
     ]
 }
