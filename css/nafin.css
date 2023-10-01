@@ -108,6 +108,21 @@ a {
     border-radius: 10px;
   }
 
+  .btn-6 {
+    background-color: #691c32;
+    color: #691c32 ;
+    padding: 8px 17px;
+    margin: 0 auto;
+    height: 100%;
+    border-radius: 50px;
+    max-width: 23em;
+    cursor:none;
+}
+
+.btn-6 div{
+    color: black;
+}
+
 .btn-5 {
     background-color: #ffffff;
     color: #bc955c ;
@@ -730,5 +745,9 @@ input.input100 {
     flex-wrap: wrap;
     justify-content: center;
     padding-top: 17px;
+}
+.btn-cap-selected {
+    background-color: #bc955c;
+    color:white;
 }
 

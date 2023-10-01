@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula Virtual Bancomext</title>
+    <!-- <link rel="stylesheet" href="	https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/blog.css">
+    <!-- <link rel="stylesheet" href="./css/carousel.css"> -->
+    <link rel="stylesheet" href="./css/nafin.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <!-- Google tag (gtag.js) -->
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-8LFCBNTZGM"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8LFCBNTZGM');
+    </script> -->
+</head>
+
+
+<body>
+
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-sm-5 py-1 fixed-top shadow-sm" style="font-size: 14px; min-height: 70px;">
+
+        <a class="navbar-brand" href="index.html"><img src="./resources/bancomext-2.svg" width="280px" id="img-header"
+                style="padding-top: 10px; padding-bottom: 10px;"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse " id="navbarNavDropdown">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Inicio</a>
+                </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link" href="cursos.html">Explora</a>
+                </li> -->
+
+                <li class="nav-item">
+                    <a class="nav-link" href="capsulas.html">Cápsulas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="blog.html">Artículos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contacto.html">Contáctanos</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://aulavirtualbancomext.com/login/index.php">Iniciar sesión</a>
+              </li>
+
+            </ul>
+        </div>
+                
+    </nav>
+
+
+    <div class="container p-5" id="capsulas" style="background-image: url(./resources/registrateahora.png); background-size: cover;  color: white; margin-top: 70px;">
+        
+      
+      
+      <!-- <div class="container">
+            
+            <div class="row" > 
+              <div class="container ">-->
+                <div class="title oswald"  data-aos="fade-right">
+                  <h1 style="font-weight: bold; font-size: 46px;">
+                      Cápsulas informativas
+                  </h1> 
+                </div>
+                <div class="row">
+                  <div class="col-8">
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <video id="videoFrame1"  controls autoplay src="./resources/videos/capsulas/Video Institucional Bancomext.mp4"  allowfullscreen></iframe>
+                    </div>
+                  </div>
+                  <div class="col-4">
+                    <div data-bs-spy="scroll" data-bs-smooth-scroll="true" class="list-group"  id="list-example"  style="overflow-y: auto; max-height: 450px;">
+                      <a id="vid1" class="fw-bold list-group-item list-group-item-action btn-cap-selected" data-bs-toggle="list" href="javascript:seleccion('vid2','./resources/videos/capsulas/Video Institucional Bancomext.mp4')">Bancomext</a>
+                      <a id="vid2"  class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list" href="javascript:seleccion('vid2','./resources/videos/capsulas/¿Qué hace un Banco de Desarrollo_.mp4')">¿Qué hace un Banco de Desarrollo?</a>
+                      <a id="vid3"  class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid3','./resources/videos/capsulas/ComoSolicitarunCredito.mp4')">Como solicitar un Credito</a>
+                      <a id="vid4" class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid4','./resources/videos/capsulas/Video Gianco 04 Crédito PyMEx.mp4')">Credito PyMEx</a>
+                      <a id="vid5" class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid5','./resources/videos/capsulas/Beneficios del Comercio Exterior.mp4')">Beneficios del Comercio Exterior</a>
+                      <a id="vid6" class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid6','./resources/videos/capsulas/¿Qué es el crédito_.mp4')">¿Qué es el crédito?</a>
+                      <a id="vid7" class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid7','./resources/videos/capsulas/Riesgos Financieros.mp4')">Riesgos Financieros</a>
+                      <a id="vid8" class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid8','./resources/videos/capsulas/¿Qué es el Factoraje Internacional_.mp4')">¿Qué es el Factoraje Internacional?</a>
+                      <a id="vid9" class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid9','./resources/videos/capsulas/FactorajeOK.mp4')">Factoraje</a>
+                      <a id="vid10" class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid10','./resources/videos/capsulas/Conoce las Cartas de Crédito.mp4')">Conoce las Cartas de Crédito</a>
+                      <a id="vid11" class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid11','./resources/videos/capsulas/¿Sabes en qué consiste la Administración de Bolsillo_.mp4')">¿Sabes en qué consiste la Administración de Bolsillo?</a>
+                      <a id="vid12" class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid12','./resources/videos/capsulas/Beneficios de la Banca Electrónica.mp4')">Beneficios de la Banca Electrónica</a>
+                      <a id="vid13" class="fw-bold list-group-item list-group-item-action" data-bs-toggle="list"href="javascript:seleccion('vid12','./resources/videos/capsulas/iffce intro.mp4')">IFFCE</a>
+                    </div>
+                  </div>
+                </div> 
+             <!-- </div>
+             </div>
+        </div> -->
+    </div>
+    <footer style="background-color: #691c32;" class="text-white py-3">
+          <div class="row mx-auto px-2 px-md-0" style="max-width: 1050px;">
+            <div class="col-12 col-sm-6 col-md-4 col-lg-4 mb-3" style="font-size: 12px;">
+                <div style="max-width: 300px;">
+                    <div class="mb-4">
+                        <img src="./resources/bancomext-2.svg" width="220px">
+                    </div>
+                    <div class="d-flex mb-4 align-items-center">
+                        <img src="./resources/cellphone.svg" class="mr-3" width="30px">
+                        800 Exporta (800 397 6782)
+                    </div>
+                    <div class="d-flex mb-4 align-items-center">
+                      <img src="./resources/ubicacion2.svg" class="mr-3" width="30px">
+                          <a href="https://goo.gl/maps/9o1wqhxaKDpbdauJ7" style="color: #dfdddd; text-decoration: none;">
+                          Periferico Sur 4333, Jardines en la Montaña, Tlalpan, CDMX, C.P. 14210
+                      </a>
+                    </div>
+                    <div class="d-flex mb-4 align-items-center" >
+                      <img src="./resources/correo.svg" class="mr-3" width="30px">
+                      
+                      <a href="mailto:aulavirtual@bancomext.gob.mx" style="color: #dfdddd; text-decoration: none;">aulavirtual@bancomext.gob.mx</a>	
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-auto mb-4">
+                <div class="underlined underlined-footer footer-title mb-4">El Banco</div>
+                <a href="https://www.nafin.com/portalnf/content/home/home.html">
+                  <div class="footer-link mb-2">Bancomext</div>
+                </a>
+                <a href="https://www.bancomext.com/pymex/">
+                  <div class="footer-link mb-2">Bancomext/Productos</div>
+                </a>
+                <a href="https://www.nafin.com/portalnf/content/desarrollo-empresarial-y-asistencia-tecnica/herramientas-de-negocio/sitios_interes.html">
+                    <div class="footer-link mb-2">Sitios de Interés</div>
+                </a>
+                <a href=" https://www.nafin.com/portalnf/content/marco-legal/">
+                    <div class="footer-link mb-2">Marco Legal</div>
+                </a>  
+            </div>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-auto mb-4">
+                <div class="underlined underlined-footer footer-title mb-4">Enlaces</div>
+                <a href="lista-cursos.html">
+                    <div class="footer-link mb-2">Cursos</div>
+                </a>
+                <a href="capsulas.html">
+                    <div class="footer-link mb-2">Cápsulas</div>
+                </a>
+                <a href="blog.html">
+                    <div class="footer-link mb-2">Artículos</div>
+                </a>
+                <a href="contacto.html">
+                    <div class="footer-link mb-2">Contacto</div>
+                </a>
+            </div>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-auto mb-4">
+                <div class="underlined underlined-footer footer-title mb-4">Gobierno de México</div>
+                <a href="https://www.gob.mx/shcp">
+                    <div class="footer-link mb-2">SHCP</div>
+                </a>
+                <a href="https://datos.gob.mx/">
+                    <div class="footer-link mb-2">Datos</div>
+                </a>
+                <a href="https://www.gob.mx/publicaciones">
+                    <div class="footer-link mb-2">Publicaciones</div>
+                </a>
+                <a href="https://www.plataformadetransparencia.org.mx/">
+                    <div class="footer-link mb-2">PNT</div>
+                </a>
+                <a href="https://alertadores.funcionpublica.gob.mx/">
+                    <div class="footer-link mb-2">Alerta</div>
+                </a>
+            </div>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-auto mb-4">
+              <div class="underlined underlined-footer footer-title mb-4">Síguenos en</div>
+              <div>
+                  <a href="https://www.facebook.com/bancomext/">
+                      <img src="./resources/footer/Facebook.svg" class="mr-3" width="30px">
+                  </a>
+                  <a href="https://twitter.com/bancomext">
+                      <img src="./resources/footer/Twitter.svg" class="" width="30px">
+                  </a>
+              </div>
+              <div style="margin-top: 16px;">
+                  <a href="https://www.instagram.com/bancomextoficial/">
+                      <img src="./resources/footer/instagram.svg" class="mr-3" width="30px">
+                  </a>
+                  <a href="https://www.youtube.com/user/BancomextTV">
+                      <img src="./resources/footer/youtube2.svg" class="" width="30px">
+                  </a>
+              </div>
+              <div style="margin-top: 16px;">
+                  <a href="https://play.google.com/store/apps/details?id=com.bancomext.pymex&hl=es&pli=1">
+                      <img src="./resources/footer/play.svg" class="mr-3" width="30px">
+                  </a>
+                  <a href="https://apps.apple.com/mx/app/bancomext-pymex/id1441833876">
+                      <img src="./resources/footer/apple.svg" class="" width="30px">
+                  </a>
+              </div>
+              <div style="margin-top: 16px;">
+                  <a href="https://www.linkedin.com/company/bancomext/">
+                      <img src="./resources/footer/linkedin2.svg" class="" width="30px">
+                  </a>
+              </div>
+          </div>
+            <div class="col-12 px-5">
+                <hr class="mt-2" color="#fff" style="height: 1px;">
+            </div>
+            <div class="col-6 text-center mt-2" style="font-size: 11px; color: #dfdddd;">
+              Copyright Bancomext 2023
+          </div>
+          <div class="col-6 text-center mt-2" style="font-size: 11px; color: #dfdddd; text-decoration: none;">
+              <a href="https://www.bancomext.com/pymex/aviso-de-privacidad/" style="text-decoration: none; color: #dfdddd;">
+                  Aviso de privacidad
+              </a>
+          </div>
+        </div>
+    </footer>
+
+    <!-- <script type="text/javascript" src="./js/jquery-3.5.1.min.js"></script> -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script> -->
+    <script type="text/javascript" src="./js/bootstrap.min.js"></script>
+    <!-- <script type="text/javascript" src="./js/mustache.min.js"></script> -->
+    <!-- <script type="text/javascript" src="./js/pagination.min.js"></script>
+    <script type="text/javascript" src="./js/carousel.js"></script>
+    <script type="text/javascript" src="./js/jquery.twbsPagination.min.js"></script> -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+     
+      $(document).ready(function() {
+      // Pausar todos los videos del carrusel
+       function pauseAllVideos() {
+         var i=1;
+         $('#videoCarousel video').each(function() {
+      
+        
+     var vid=$(this).attr('id');
+          document.getElementById(vid).pause();
+       //alert(i++ + vid);
+         });
+        
+       }
+    //  var autoplayoff = jQuery(".iframe_video_class").attr('src').replace("&autoplay=1", "&autoplay=0");
+    //jQuery(".iframe_video_class").attr('src', autoplayoff );
+      // Reproducir solo el video activo cuando se haya completado la transición
+      $('#videoCarousel').on('slid.bs.carousel', function(event) {
+         pauseAllVideos();
+         var currentFrame = $(event.relatedTarget).find('video');
+         document.getElementById(currentFrame.attr('id')).play();;
+         
+       });
+
+      // Pausar todos los videos cuando la página se haya cargado
+      //pauseAllVideos();
+    });
+
+    function seleccion(a,b){
+
+      
+      $('#list-example a').each(function() {
+      //alert(a+"  "+b);
+        $(this).removeClass("btn-cap-selected");
+      var vid=$(this).attr('id');
+           //$("#"+vid).removeClass("btn-5-selected");
+           //alert(vid);
+        //alert(i++ + vid);
+          });
+      $("#"+a).addClass("btn-cap-selected");
+      $("#videoFrame1").attr("src",b);
+    }
+    </script> 
+    <script type="text/javascript">
+        $(document).ready(function () {
+            AOS.init({
+                // Global settings:
+                disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+                startEvent: 'DOMContentLoaded', // name of the event dispatched on the document, that AOS should initialize on
+                initClassName: 'aos-init', // class applied after initialization
+                animatedClassName: 'aos-animate', // class applied on animation
+                useClassNames: false, // if true, will add content of `data-aos` as classes on scroll
+                disableMutationObserver: false, // disables automatic mutations' detections (advanced)
+                debounceDelay: 50, // the delay on debounce used while resizing window (advanced)
+                throttleDelay: 99, // the delay on throttle used while scrolling the page (advanced)
+
+
+                // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
+                offset: 120, // offset (in px) from the original trigger point
+                delay: 0, // values from 0 to 3000, with step 50ms
+                duration: 800, // values from 0 to 3000, with step 50ms
+                easing: 'ease', // default easing for AOS animations
+                once: false, // whether animation should happen only once - while scrolling down
+                mirror: false, // whether elements should animate out while scrolling past them
+                anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
+
+            });
+
+            //     const params = new Proxy(new URLSearchParams(window.location.search), {
+            //         get: (searchParams, prop) => searchParams.get(prop),
+            //     });
+
+            //     console.log(params.articulo);
+
+
+            // $.getJSON('./js/blog.json', function (data) {
+            //     let template = $('#blog-template').html();
+            //     let text = Mustache.render(template, data);
+            //     $("#blog-list-content").html(text);
+
+            //     let lastPost = data.blogList.slice(-4);
+               
+
+            //     let templateMiniatures = $('#last-blog-template').html();
+            //     let textMiniatures = Mustache.render(templateMiniatures, lastPost);
+            //     //console.log(textMiniatures);
+
+            //     $("#miniature-list").html(textMiniatures);
+
+            // });
+
+        });
+    </script>
+    
+
+
+</body>
+</html>

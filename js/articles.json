@@ -82,6 +82,19 @@
         "tags":{
             "categoria":["SGRAS"]
         }
+    },
+    {
+        "titulo":"Cursos presenciales, conferencias en vivo y webinar",
+        "tipo":"CP",
+        "cardList":[
+            {"subtitulo":"Presencial","content":"Desarrolla tu fortaleza empresarial con nuestros expertos.","tipon":1,"link":"./content/cursos_presenciales_bmx.pdf","linkimagen":"./resources/presencial.png"},
+            {"subtitulo":"Webinars","content":"Seminarios web que rompen barreras fisicas, conexión e interacción inmediata.","tipon":2,"link":"./content/Calendario BXT-oct.pdf","linkimagen":"./resources/webinars.png"}
+            
+        ],
+        "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual. Atención uno a uno consultor-empresa.",
+        "tags":{
+            "categoria":["CPW"]
+        }
     }
     
     
@@ -95,7 +108,7 @@
             "segmento":"Empresarial",
             "dirijido":"Microempresas y pequeñas empresas.",
             "descripcion":"Microempresas que estén considerando incursionar en los mercados internacionales.",
-            "img": "./resources/fortalizacionempresarial"
+            "img": "./resources/Microempresas"
         },
         {
             "categoria":"SGRAS",
@@ -103,7 +116,7 @@
             "segmento":"Social",
             "dirijido":"Pequeñas y medianas empresas",
             "descripcion":"Pequeñas y medianas empresas que ya exportan y desean consolidar su mercado o desean diversificar exportaciones a nuevos mercados geográficos.",
-            "img": "./resources/socialeducacionfinanciera"
+            "img": "./resources/Pyme Exportadora"
         },
         {
             "categoria":"CE",
@@ -111,7 +124,7 @@
             "segmento":"Social",
             "dirijido":"Empresas",
             "descripcion":"Habilidades y capacidades que les permitirán generar valor en el capital humano con el objetivo de aumentar su eficiencia y alcanzar sus objetivos.",
-            "img": "./resources/socialeducacionfinanciera"
+            "img": "./resources/Competencias Gerenciales"
         },
         {
             "categoria":"FAF",
@@ -119,7 +132,81 @@
             "segmento":"Empresarial",
             "dirijido":"Empresas",
             "descripcion":"Programa de formación exclusivo para intermediarios financieros.",
-            "img": "./resources/creaciondenegocios"
+            "img": "./resources/Intermediarios Financieros"
+        },
+        {
+            "categoria":"CPW",
+            "nombre":"Cursos Presenciales y/o Webinars",
+            "segmento":"Empresarial",
+            "dirijido":"MiPyMES",
+            "descripcion":"En esta sección podrás inscribirte de forma gratuita a nuestro cursos presenciales o en formato on line.",
+            "img": "./resources/Cursos"
+        }
+        
+        
+
+    ],
+    "subcategorias": [
+        {
+            "nombrecat":"Cursos de autogestión",
+            "contentList":[{
+                "categoria":"EN",
+                "nombre":"Microempresas",
+                "segmento":"Empresarial",
+                "dirijido":"Microempresas y pequeñas empresas.",
+                "descripcion":"Microempresas que estén considerando incursionar en los mercados internacionales.",
+                "img": "./resources/Microempresas"
+            },
+            {
+                "categoria":"SGRAS",
+                "nombre":"Pyme Exportadora",
+                "segmento":"Social",
+                "dirijido":"Pequeñas y medianas empresas",
+                "descripcion":"Pequeñas y medianas empresas que ya exportan y desean consolidar su mercado o desean diversificar exportaciones a nuevos mercados geográficos.",
+                "img": "./resources/Pyme Exportadora"
+            },
+            {
+                "categoria":"CE",
+                "nombre":"Competencias Gerenciales",
+                "segmento":"Social",
+                "dirijido":"Empresas",
+                "descripcion":"Habilidades y capacidades que les permitirán generar valor en el capital humano con el objetivo de aumentar su eficiencia y alcanzar sus objetivos.",
+                "img": "./resources/Competencias Gerenciales"
+            },
+            {
+                "categoria":"FAF",
+                "nombre":"Intermediarios Financieros",
+                "segmento":"Empresarial",
+                "dirijido":"Empresas",
+                "descripcion":"Programa de formación exclusivo para intermediarios financieros.",
+                "img": "./resources/Intermediarios Financieros"
+            }]
+        }
+        ,
+        {
+            "nombrecat":"Cursos Presenciales y/o Webinar",
+            "contentList":[{
+                "categoria":"1",
+                "nombre":"Webinar",
+                "segmento":"Empresarial",
+                "dirijido":"MiPyMES",
+                "descripcion":"En esta sección podrás inscribirte de forma gratuita a nuestro cursos presenciales o en formato on line.",
+                "img": "./resources/Cursos",
+                "tipon":"1",
+                "link":"./content/Calendario BXT-oct.pdf"
+
+            },{
+                "categoria":"1",
+                "nombre":"Presenciales",
+                "segmento":"Empresarial",
+                "dirijido":"MiPyMES",
+                "descripcion":"En esta sección podrás inscribirte de forma gratuita a nuestro cursos presenciales o en formato on line.",
+                "img": "./resources/Cursos",
+                "tipon":"2",
+                "link":"./content/cursos_presenciales_bmx.pdf"
+
+            }]
+           
         }
         
         

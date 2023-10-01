@@ -58,7 +58,7 @@
     </div>
     <div id="main-header" style="margin-top: 68px;" class="row mx-0">
         <div id="header-textura"   class="col-md-4 col-sm-12 d-flex align-items-center">
-            <div data-aos="zoom-in" class="row justify-content-center mx-auto px-4 px-md-0 " id="btn-4s" >
+            <div data-aos="zoom-in" class="row justify-content-center ml-5 px-4 px-md-0 " id="btn-4s" >
                 <div id="main-menu" ></div>
             </div>
         </div>
@@ -591,9 +591,16 @@ desarrollo de México.</div>
 			</div>
 		</div>
     </div>
+    <div id="pdfmodal" class="modal fade " tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" >
+        <div class="modal-dialog modal-lg" role="document"style="width:100%;height:80%;">
+          <div class="modal-content" style="width:100%;height:100%;">
+           <embed id="embedpdfmodal" src="" type="application/pdf" width="100%" height="100%" />
+          </div>
+        </div>
+      </div>
   
     <!-- Modal -->
-    <div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2" aria-hidden="true">
 
             <div class="modal-dialog" role="document">
                     <div class="modal-content">
@@ -655,17 +662,27 @@ desarrollo de México.</div>
 
     </div>
         <template class="d-none" id="menu-template">
-        {{#categorias}}
-        <div class="col-12 col-sm-12  mb-1 px-1 px-lg-0 mb-4">
-            <div class="d-flex align-items-center btn-5" data="{{categoria}}">
-                <img src="{{img}}.svg" width="55px" height="50px" class="img-g">
-                <img src="{{img}}-w.svg" width="55px" height="50px" class="d-none img-w">
+        {{#subcategorias}}
+        <div class="col-12 col-sm-12 ml-0  mb-1 px-1 px-lg-0 mb-3">
+            <div class="d-flex align-items-center btn-6" >
+                <div class="ml-3">
+                    <div class="font-weight-bold" style="font-size: 17px;">{{nombrecat}}</div>
+                </div>
+            </div>
+        </div>
+        {{#contentList}}
+        <div class="col-12 col-sm-11 ml-5  mb-1 px-1 px-lg-0 mb-3">
+            <div class="d-flex align-items-center btn-5" data="{{categoria}}" id="{{link}}" data-toggle="modal" data-target=".bd-example-modal-lg{{tipon}}">
+                <img src="{{img}}.svg" width="40px" height="35px" class="img-g">
+                <img src="{{img}}-w.svg" width="40px" height="35px" class="d-none img-w">
                 <div class="ml-3">
                     <div class="font-weight-bold" style="font-size: 17px;">{{nombre}}</div>
                 </div>
             </div>
         </div>
-        {{/categorias}}
+        
+        {{/contentList}}
+        {{/subcategorias}}
     </template>
     <!-- Cursos populares -->
     <template class="d-none" id="curso">
@@ -852,6 +869,15 @@ desarrollo de México.</div>
 
             $(document).on('click', '#main-menu .btn-5', function () {
                 let sector = $(this).attr("data");
+                if(sector=="1"){
+                        let tipo = $(this).attr("id");
+                        //alert(tipo);
+                        $('#embedpdfmodal').attr("src",tipo);
+                        $('#pdfmodal').modal('show');
+                        
+
+                }
+                else
                 window.location.href = "cursos.html?sector="+ sector;
             });
 
