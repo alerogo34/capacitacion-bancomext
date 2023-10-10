@@ -1,23 +1,5 @@
 {
-    "articles": [{
-        "titulo":"En línea, a tu ritmo y en cualquier momento",
-        "tipo":"L",
-        "contentList":[
-            {"content" : "Liderazgo", "link":"ficha-curso.html?course=21&sector=CFE"},
-            {"content" : "Orientación a resultados", "link":"ficha-curso.html?course=22&sector=CFE"},
-            {"content" : "Trabajo en equipo", "link":"ficha-curso.html?course=23&sector=CFE"},
-            {"content" : "Capacidad asertiva", "link":"ficha-curso.html?course=24&sector=CFE"},
-            {"content" : "Administración del tiempo", "link":"ficha-curso.html?course=25&sector=CFE"},
-            {"content" : "Manejo de conflictos con inteligencia emocional", "link":"ficha-curso.html?course=26&sector=CFE"},
-            {"content" : "Negociación", "link":"ficha-curso.html?course=27&sector=CFE"},
-            {"content" : "Negociación 2", "link":"ficha-curso.html?course=28&sector=CFE"}
-
-        ],
-        "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual",
-        "tags":{
-            "categoria":["CE"]
-        }
-    },
+    "articles": [
    
     
 
@@ -58,7 +40,15 @@
             {"content":"Medidas de prevención para la ciberseguridad","link":"ficha-curso.html?course=17&sector=CFE"},
             {"content":"Perspectiva de género","link":"ficha-curso.html?course=18&sector=CFE"},
             {"content":"Las mujeres y su papel en el comercio internacional","link":"ficha-curso.html?course=19&sector=CFE"},
-            {"content":"Responsabilidad ambiental y social","link":"ficha-curso.html?course=20&sector=CFE"}
+            {"content":"Responsabilidad ambiental y social","link":"ficha-curso.html?course=20&sector=CFE"},
+            {"content" : "Liderazgo", "link":"ficha-curso.html?course=21&sector=CFE"},
+            {"content" : "Orientación a resultados", "link":"ficha-curso.html?course=22&sector=CFE"},
+            {"content" : "Trabajo en equipo", "link":"ficha-curso.html?course=23&sector=CFE"},
+            {"content" : "Capacidad asertiva", "link":"ficha-curso.html?course=24&sector=CFE"},
+            {"content" : "Administración del tiempo", "link":"ficha-curso.html?course=25&sector=CFE"},
+            {"content" : "Manejo de conflictos con inteligencia emocional", "link":"ficha-curso.html?course=26&sector=CFE"},
+            {"content" : "Negociación", "link":"ficha-curso.html?course=27&sector=CFE"},
+            {"content" : "Negociación 2", "link":"ficha-curso.html?course=28&sector=CFE"}
             
         ],
         "duracion":"Duración de 2 horas por curso, Atención de dudas a través de ayuda@nafintecapacita.com , Individual. Atención uno a uno consultor-empresa.",
@@ -118,14 +108,7 @@
             "descripcion":"Pequeñas y medianas empresas que ya exportan y desean consolidar su mercado o desean diversificar exportaciones a nuevos mercados geográficos.",
             "img": "./resources/Pyme Exportadora"
         },
-        {
-            "categoria":"CE",
-            "nombre":"Competencias Gerenciales",
-            "segmento":"Social",
-            "dirijido":"Empresas",
-            "descripcion":"Habilidades y capacidades que les permitirán generar valor en el capital humano con el objetivo de aumentar su eficiencia y alcanzar sus objetivos.",
-            "img": "./resources/Competencias Gerenciales"
-        },
+        
         {
             "categoria":"FAF",
             "nombre":"Intermediarios Financieros",
@@ -165,14 +148,7 @@
                 "descripcion":"Pequeñas y medianas empresas que ya exportan y desean consolidar su mercado o desean diversificar exportaciones a nuevos mercados geográficos.",
                 "img": "./resources/Pyme Exportadora"
             },
-            {
-                "categoria":"CE",
-                "nombre":"Competencias Gerenciales",
-                "segmento":"Social",
-                "dirijido":"Empresas",
-                "descripcion":"Habilidades y capacidades que les permitirán generar valor en el capital humano con el objetivo de aumentar su eficiencia y alcanzar sus objetivos.",
-                "img": "./resources/Competencias Gerenciales"
-            },
+           
             {
                 "categoria":"FAF",
                 "nombre":"Intermediarios Financieros",
